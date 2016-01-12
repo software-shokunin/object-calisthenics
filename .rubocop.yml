@@ -6,6 +6,10 @@ Metrics/ModuleLength:
   CountComments: true
   Max: 50
 
+Metrics/MethodLength:
+  CountComments: true
+  Max: 10
+
 Metrics/CyclomaticComplexity:
   Max: 1
 
