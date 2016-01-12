@@ -18,3 +18,7 @@ Metrics/BlockNesting:
 
 Metrics/PerceivedComplexity:
   Max: 1
+
+Metrics/ParameterLists:
+  Max: 2
+  CountKeywordArgs: true
