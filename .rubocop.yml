@@ -1,0 +1,16 @@
+Metrics/ClassLength:
+  CountComments: true
+  Max: 50
+
+Metrics/ModuleLength:
+  CountComments: true
+  Max: 50
+
+Metrics/CyclomaticComplexity:
+  Max: 1
+
+Metrics/BlockNesting:
+  Max: 0
+
+Metrics/PerceivedComplexity:
+  Max: 1

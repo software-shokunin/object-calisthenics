@@ -1,3 +1,3 @@
 FROM ruby:onbuild
 
-CMD ["guard -p"]
+CMD ["guard",  "-p"]
